@@ -6,7 +6,7 @@ import Birthday from '~/assets/gift.png'
 import Ad from '~/assets/ad.png'
 import { useState } from 'react'
 import Avatar from '@mui/material/Avatar'
-import Typography from '@mui/material/Typography'
+
 import CloseIcon from '@mui/icons-material/Close'
 import AvaterMessage from '~/assets/person/1.jpeg'
 import SearchIcon from '@mui/icons-material/Search'
